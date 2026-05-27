@@ -35,21 +35,18 @@ El backend no utiliza base de datos. Su función principal es consumir una API e
 - Arquitectura por capas
 - Archivos de configuración appsettings.json
 
----
-
 ## Estructura del proyecto
 
+```txt
 backend/
-|
-├── PruebaTecnicaCarsales.sln
-|
-└── src/
-    ├── PruebaTecnicaCarsales.Api/
-    ├── PruebaTecnicaCarsales.Application/
-    ├── PruebaTecnicaCarsales.Domain/
-    └── PruebaTecnicaCarsales.Infrastructure/
+  PruebaTecnicaCarsales.sln
 
----
+  src/
+    PruebaTecnicaCarsales.Api/              Proyecto Web API
+    PruebaTecnicaCarsales.Application/      Contratos, DTOs y modelos comunes
+    PruebaTecnicaCarsales.Domain/           Entidades internas
+    PruebaTecnicaCarsales.Infrastructure/   Consumo de servicios externos
+```
 
 ## Arquitectura por capas
 
