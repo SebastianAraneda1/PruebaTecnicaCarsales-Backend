@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\sebas\\Source\\Repos\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|solutionrelative:src\\pruebatecnicacarsales.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\rickandmortyapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|solutionrelative:src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\rickandmortyapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\responses\\rickandmortyepisoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|solutionrelative:src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\responses\\rickandmortyepisoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\rickandmortyepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|solutionrelative:src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\rickandmortyepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\responses\\rickandmortypaginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|solutionrelative:src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\responses\\rickandmortypaginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\rickandmortycharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|solutionrelative:src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\rickandmortycharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\responses\\rickandmortycharacterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CDC62F-1FA3-1B2B-9294-44BD69F39C2E}|src\\PruebaTecnicaCarsales.Infrastructure\\PruebaTecnicaCarsales.Infrastructure.csproj|solutionrelative:src\\pruebatecnicacarsales.infrastructure\\externalservices\\rickandmorty\\responses\\rickandmortycharacterresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18F13A2-3C27-74DC-2CCD-341189E78BC0}|src\\PruebaTecnicaCarsales.Domain\\PruebaTecnicaCarsales.Domain.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.domain\\entities\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18F13A2-3C27-74DC-2CCD-341189E78BC0}|src\\PruebaTecnicaCarsales.Domain\\PruebaTecnicaCarsales.Domain.csproj|solutionrelative:src\\pruebatecnicacarsales.domain\\entities\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18F13A2-3C27-74DC-2CCD-341189E78BC0}|src\\PruebaTecnicaCarsales.Domain\\PruebaTecnicaCarsales.Domain.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.domain\\entities\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18F13A2-3C27-74DC-2CCD-341189E78BC0}|src\\PruebaTecnicaCarsales.Domain\\PruebaTecnicaCarsales.Domain.csproj|solutionrelative:src\\pruebatecnicacarsales.domain\\entities\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.application\\common\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|solutionrelative:src\\pruebatecnicacarsales.application\\common\\models\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.application\\interfaces\\irickandmortyepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|solutionrelative:src\\pruebatecnicacarsales.application\\interfaces\\irickandmortyepisodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.application\\interfaces\\irickandmortycharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|solutionrelative:src\\pruebatecnicacarsales.application\\interfaces\\irickandmortycharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.application\\dtos\\episodes\\episodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|solutionrelative:src\\pruebatecnicacarsales.application\\dtos\\episodes\\episodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.application\\dtos\\characters\\characterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F717FE10-2605-EE04-27E6-108F024050A6}|src\\PruebaTecnicaCarsales.Application\\PruebaTecnicaCarsales.Application.csproj|solutionrelative:src\\pruebatecnicacarsales.application\\dtos\\characters\\characterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|solutionrelative:src\\pruebatecnicacarsales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|solutionrelative:src\\pruebatecnicacarsales.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|solutionrelative:src\\pruebatecnicacarsales.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.api\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|solutionrelative:src\\pruebatecnicacarsales.api\\controllers\\characterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.api\\controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|solutionrelative:src\\pruebatecnicacarsales.api\\controllers\\episodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|d:\\users\\sebas\\source\\repos\\backend\\src\\pruebatecnicacarsales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60E700DF-984C-FC7D-FC55-71EADDED4839}|src\\PruebaTecnicaCarsales.Api\\PruebaTecnicaCarsales.Api.csproj|solutionrelative:src\\pruebatecnicacarsales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CharactersController.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Controllers\\CharactersController.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Api\\Controllers\\CharactersController.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Controllers\\CharactersController.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Api\\Controllers\\CharactersController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:27:55.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RickAndMortyCharacterService.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyCharacterService.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyCharacterService.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyCharacterService.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyCharacterService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:18:09.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RickAndMortyCharacterResponse.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyCharacterResponse.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyCharacterResponse.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyCharacterResponse.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyCharacterResponse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:17:38.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRickAndMortyCharacterService.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyCharacterService.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyCharacterService.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyCharacterService.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyCharacterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:17:01.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RickAndMortyEpisodeService.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyEpisodeService.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyEpisodeService.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyEpisodeService.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyEpisodeService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAFsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:27:23.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CharacterDto.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\DTOs\\Characters\\CharacterDto.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Application\\DTOs\\Characters\\CharacterDto.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\DTOs\\Characters\\CharacterDto.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Application\\DTOs\\Characters\\CharacterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:16:15.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Domain\\Entities\\Character.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Domain\\Entities\\Character.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Domain\\Entities\\Character.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Domain\\Entities\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T18:15:11.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Domain\\Entities\\Episode.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Domain\\Entities\\Episode.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Domain\\Entities\\Episode.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Domain\\Entities\\Episode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:44:40.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EpisodesController.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Controllers\\EpisodesController.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Api\\Controllers\\EpisodesController.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Controllers\\EpisodesController.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Api\\Controllers\\EpisodesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:39:14.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:38:38.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-27T02:37:52.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Api\\appsettings.json",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\appsettings.json",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-27T02:37:10.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:28:22.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RickAndMortyEpisodeResponse.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyEpisodeResponse.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyEpisodeResponse.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyEpisodeResponse.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyEpisodeResponse.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:26:52.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RickAndMortyPaginatedResponse.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyPaginatedResponse.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyPaginatedResponse.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyPaginatedResponse.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\Responses\\RickAndMortyPaginatedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:26:24.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RickAndMortyApiOptions.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyApiOptions.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyApiOptions.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyApiOptions.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Infrastructure\\ExternalServices\\RickAndMorty\\RickAndMortyApiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:25:32.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRickAndMortyEpisodeService.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyEpisodeService.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyEpisodeService.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyEpisodeService.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Application\\Interfaces\\IRickAndMortyEpisodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:24:32.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EpisodeDto.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\DTOs\\Episodes\\EpisodeDto.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Application\\DTOs\\Episodes\\EpisodeDto.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\DTOs\\Episodes\\EpisodeDto.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Application\\DTOs\\Episodes\\EpisodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:23:53.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\Common\\Models\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Application\\Common\\Models\\PaginatedResponse.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Application\\Common\\Models\\PaginatedResponse.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Application\\Common\\Models\\PaginatedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:22:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PruebaTecnicaCarsales.Api\\Program.cs",
+              "ToolTip": "D:\\Users\\sebas\\Source\\Repos\\Backend\\src\\PruebaTecnicaCarsales.Api\\Program.cs",
+              "RelativeToolTip": "src\\PruebaTecnicaCarsales.Api\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T02:20:05.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

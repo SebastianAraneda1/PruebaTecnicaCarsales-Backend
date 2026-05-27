@@ -1,0 +1,15 @@
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\bin\Debug\net8.0\PruebaTecnicaCarsales.Application.deps.json
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\bin\Debug\net8.0\PruebaTecnicaCarsales.Application.dll
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\bin\Debug\net8.0\PruebaTecnicaCarsales.Application.pdb
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\bin\Debug\net8.0\PruebaTecnicaCarsales.Domain.dll
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\bin\Debug\net8.0\PruebaTecnicaCarsales.Domain.pdb
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTecnicaCarsales.Application.csproj.AssemblyReference.cache
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTecnicaCarsales.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTecnicaCarsales.Application.AssemblyInfoInputs.cache
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTecnicaCarsales.Application.AssemblyInfo.cs
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTecnicaCarsales.Application.csproj.CoreCompileInputs.cache
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTe.3EDC62FE.Up2Date
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTecnicaCarsales.Application.dll
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\refint\PruebaTecnicaCarsales.Application.dll
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\PruebaTecnicaCarsales.Application.pdb
+D:\Users\sebas\Source\Repos\Backend\src\PruebaTecnicaCarsales.Application\obj\Debug\net8.0\ref\PruebaTecnicaCarsales.Application.dll
